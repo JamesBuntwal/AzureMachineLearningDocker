@@ -4,6 +4,8 @@
 
 ---
 
+<br>
+
 ## <p align="center">🌟 Overview</p>
 
 This repository contains all the necessary configuration files to build
@@ -19,6 +21,8 @@ It is designed to:
 
 ---
 
+<br>
+
 ## <p align="center">📁 Repository Structure</p>
 ```
 .
@@ -29,6 +33,16 @@ It is designed to:
 ```
 
 ---
+
+<br>
+
+## <p align="center">🔧 Adjustments</p>
+
+Modify the dependency files to suit your project requirements.
+
+---
+
+<br>
 
 ## <p align="center">🖥 Create Azure ML Environment (GUI)</p>
 
